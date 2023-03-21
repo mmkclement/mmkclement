@@ -7,11 +7,7 @@
 all under control , take care of  recovery organization.
 Add prescriptions (pills, treatments, exercices) and doctor appointments.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ruby on rails]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: React and Vue Framework by Ei Maung ( https://github.com/eimg) ]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database]<br>
- 
+
 🌱 *Currently Learning*: React-Native and Ruby<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first web dev job in this current job climate.<br>
 📫 How to reach me: <br>
