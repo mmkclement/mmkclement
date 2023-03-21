@@ -1,4 +1,4 @@
-<img src="[https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80](https://unsplash.com/photos/j5s_uLajP2o)"/>
+<img src="[https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80]"/>
  
 ### Hi there 👋, I'm Maung. I'm a web developer and technical specialist. Welcome to my gh page! <br>
  
@@ -8,7 +8,7 @@ all under control , take care of  recovery organization.
 Add prescriptions (pills, treatments, exercices) and doctor appointments.
 
 
-🌱 *Currently Learning*: React-Native and Ruby<br>
+🌱 *Currently Learning*:  Ruby, Rials , JS , React<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first web dev job in this current job climate.<br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](maungmaungkha18290@gmail.com)
