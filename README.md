@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="[https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80](https://unsplash.com/photos/j5s_uLajP2o)"/>
  
 ### Hi there 👋, I'm Maung. I'm a web developer and technical specialist. Welcome to my gh page! <br>
  
@@ -18,9 +18,11 @@ Add prescriptions (pills, treatments, exercices) and doctor appointments.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](maungmaungkha18290@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maung-maung-kha-/)
  
+ 
 😄 Pronouns: he/him <br>
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  I am a musician.I created a group called EZ goin in paris. Founded by guys from different countries  🇨🇲 🇫🇷 🇲🇲 🇦🇷 🇨🇴 You can hear me play here: EZ goiung (https://www.youtube.com/channel/UC8aw2bX0m2oTz3dZhlWQwrw)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  
+I am a musician.I created a group called EZ goin in paris. Founded by guys from different countries  🇨🇲 🇫🇷 🇲🇲 🇦🇷 🇨🇴 You can hear me play here: EZ goiung (https://www.youtube.com/channel/UC8aw2bX0m2oTz3dZhlWQwrw)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
  
  
