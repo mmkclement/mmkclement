@@ -18,7 +18,7 @@ Add prescriptions (pills, treatments, exercices) and doctor appointments.
 😄 Pronouns: he/him <br>
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  
-I am a musician.I created a group called EZ goin in paris. Founded by guys from different countries  🇨🇲 🇫🇷 🇲🇲 🇦🇷 🇨🇴 You can hear me play here: EZ goiung (https://www.youtube.com/channel/UC8aw2bX0m2oTz3dZhlWQwrw)<br>
+I am a musician.I created a group called EZ goin in paris. Founded by guys from different countries  🇨🇲 🇫🇷 🇲🇲 🇦🇷 🇨🇴 You can hear me play here: EZ going (https://www.youtube.com/channel/UC8aw2bX0m2oTz3dZhlWQwrw)<br>
  
  
  
