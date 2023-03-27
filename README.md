@@ -8,7 +8,7 @@ all under control , take care of  recovery organization.
 Add prescriptions (pills, treatments, exercices) and doctor appointments.
 
 
-🌱 *Currently Learning*:  Ruby, Rials , JS , React<br>
+🌱 *Currently Learning*:  Ruby, Rails , JavaScript , React<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first web dev job in this current job climate.<br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](maungmaungkha18290@gmail.com)
